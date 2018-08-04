@@ -1,0 +1,24 @@
+{
+  "name": "platzom1",
+  "version": "0.1.0",
+  "description": "funcion que cambia palabras",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrangelc/platzom1.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "platzi",
+    "platzom"
+  ],
+  "author": "Luis Rangel <luisrangelc@gmail.com> (https://twitter.com/luis_rangel_c)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrangelc/platzom1/issues"
+  },
+  "homepage": "https://github.com/lrangelc/platzom1#readme"
+}
