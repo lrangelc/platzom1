@@ -2,8 +2,10 @@
   "name": "platzom1",
   "version": "0.1.0",
   "description": "funcion que cambia palabras",
-  "main": "index.js",
+  "main": "dist/src/platzom1.js",
   "scripts": {
+    "build": "babel src/platzom1.js -d dist",
+    "test":"mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/lrangelc/platzom1/issues"
   },
-  "homepage": "https://github.com/lrangelc/platzom1#readme"
+  "homepage": "https://github.com/lrangelc/platzom1#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
