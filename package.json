@@ -1,6 +1,6 @@
 {
-  "name": "platzom1",
-  "version": "0.1.0",
+  "name": "@luisrangelc/platzom1",
+  "version": "0.1.1",
   "description": "funcion que cambia palabras",
   "main": "dist/src/platzom1.js",
   "scripts": {

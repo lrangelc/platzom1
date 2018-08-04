@@ -12,19 +12,19 @@ Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](http
 ## Instalación
 
 ```
-npm install platzom
+npm install @luisrangelc/platzom1
 ```
 
 ## Uso
 
 ```
-import platzom from 'platzom'
+import platzom1 from 'platzom1'
 
-platzom("Programar") // Program
-platzom("Zorro") // Zorrope
-platzom("Zarpar") // Zarppe
-platzom("abecedario") // abece-dario
-platzom("sometemos") // SoMeTeMoS
+platzom1("Programar") // Program
+platzom1("Zorro") // Zorrope
+platzom1("Zarpar") // Zarppe
+platzom1("abecedario") // abece-dario
+platzom1("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
